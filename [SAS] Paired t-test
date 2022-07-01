@@ -1,6 +1,6 @@
 # [SAS] Paired t-test
 
-```python
+```sas
 proc ttest data=data alpha=.05;
     paired pre*post;
 run;
