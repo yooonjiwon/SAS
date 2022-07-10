@@ -1,6 +1,6 @@
 # [SAS] Error Grid
 
-This code is alteration of [Jesse A. Canchola's code](https://www.lexjansen.com/wuss/2013/78_Paper.pdf)
+This code is alteration of [Jesse A. Canchola's code](https://www.lexjansen.com/wuss/2013/78_Paper.pdf).   
 Also, alteration is based on Morey et al.
 
 ```sas
