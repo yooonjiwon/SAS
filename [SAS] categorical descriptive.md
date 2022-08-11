@@ -1,4 +1,4 @@
-# [SAS] contingency table with chi
+# [SAS] categorical descriptive
 
 ```python
 PROC FREQ DATA=dataset;
