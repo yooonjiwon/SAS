@@ -33,9 +33,19 @@ run;
 ```
 
 ### ANOVA
+comparing multiple groups with categorical variables when they are normally distributed.
 ```sas
 proc anova data=data;
 class group;
 model continuous=group;
 run;
 ```
+
+### Kruskal-Wallis
+comparing multiple groups with categorical variables when they are not normally distributed as a nonparametric statistical method.
+```sas
+proc npar1way data=df;
+class group;
+var continuous;
+run;
+``
