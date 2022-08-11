@@ -17,6 +17,14 @@ run;
 ```
 
 ## statistical test
+
+### normality test
+```sas
+proc univariate data=pre normal plot;
+var a b c;
+run;
+```
+
 ### t-test
 ```sas
 proc ttest data=data alpha=.05;
