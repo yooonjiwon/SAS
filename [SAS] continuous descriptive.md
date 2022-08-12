@@ -49,6 +49,7 @@ proc npar1way data=df wilcoxon;
 class group;
 var continuous;
 run;
+```
 
 ### ANOVA
 comparing multiple groups with a continuous variables when they are normally distributed.
