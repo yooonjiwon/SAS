@@ -62,7 +62,7 @@ run;
 ### Kruskal-Wallis
 comparing multiple groups with a continuous variables when they are not normally distributed as a nonparametric test.
 ```sas
-proc npar1way data=df;
+proc npar1way data=df wilcoxon dscf;
 class group;
 var continuous;
 run;
