@@ -45,10 +45,15 @@ I am organizing SAS codes by the tasks from the basic because I forget about it 
 
 <br>
 
-## Roadmap
+## Statistical Tests
 
-- [x] Base (ongoing)
-- [ ] Macro
+- paired t-test
+- independent t-test
+- ANOVA
+- Kruskal-Wallis test (nonparametric)
+- Mann-Whitney test (nonparametric)
+- chi-square test
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
