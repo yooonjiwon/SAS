@@ -54,7 +54,7 @@ I am organizing SAS codes by the tasks from the basic because I forget about it 
 - [Kruskal-Wallis test (nonparametric)](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
 - [Mann-Whitney test (nonparametric)](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
 - [Signed Rank test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
-- Chi-squared test
+- [Chi-squared test / Fisher's exact test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20Categorical%20Statistics.md)
 - [Fleiss' kappa](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20Reliability.md)
 - [Kripendorff's alpha](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20Reliability.md)
 
