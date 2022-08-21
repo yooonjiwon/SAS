@@ -9,7 +9,7 @@ RUN;
 
 ### Chi-squared test
 Contingency table with chi-square test.   
-In case the exspected cell counts under 5 is 25% or more, you can use fisher's test.
+In case the expected cell counts under 5 is 25% or more, you can use fisher's test.
 ```sas
 PROC FREQ DATA=df;
     TABLES variable1*variable2 / chisq fisher;
