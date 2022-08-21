@@ -70,8 +70,8 @@ run;
 ```
 
 ### One sample t-test
-First, try normality test with **univariate** statement (Check Shapiro-Wilk and Kolomogorov-Sminov). 
-If those are normally distributed, you can use t-test, otherwise you can use signed test or signed rank test.
+First, try normality test with **univariate** statement (Check Shapiro-Wilk and Kolomogorov-Sminov).   
+If those are normally distributed, you can use t-test, otherwise you can use signed test or signed rank test.   
 ```sas
 proc univariate data=df loccount mu0 = 5 normal;
 var value;
