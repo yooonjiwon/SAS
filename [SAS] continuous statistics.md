@@ -1,4 +1,4 @@
-# [SAS] Descriptive statistics of continuous variables
+# [SAS] Statistics of continuous variables
    
 ```sas
 # getting just N, mean, SD, Minimum, and Maximum
