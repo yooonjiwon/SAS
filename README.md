@@ -47,12 +47,14 @@ I am organizing SAS codes by the tasks from the basic because I forget about it 
 
 ## Statistical Tests
 
-- paired t-test
-- independent t-test
-- ANOVA
-- Kruskal-Wallis test (nonparametric)
-- Mann-Whitney test (nonparametric)
-- chi-square test
+- [Paired samples t-test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [Independent samples t-test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [One sample t-test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [ANOVA](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [Kruskal-Wallis test (nonparametric)](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [Mann-Whitney test (nonparametric)](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [Signed Rank test](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- Chi-squared test
 
 
 
