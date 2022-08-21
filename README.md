@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About This Repository
-I am organizing SAS codes by the tasks from the basic because I forget about it all the time when I don't use it a lot. My goal is to master macro stage and get a license at the end of the year if time is allowed.
+I am organizing SAS codes by the tasks from the basic.
 
 <br>
 
