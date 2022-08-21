@@ -1,4 +1,5 @@
-# [SAS] categorical descriptive
+# [SAS] Categorical Statistics
+
 Frequency check.
 ```sas
 PROC FREQ DATA=dataset;
