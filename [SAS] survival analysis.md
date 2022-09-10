@@ -5,7 +5,7 @@
 proc lifetest method=km plot=(s ls lls) graphics;
 time time*status(0);
 run;
-``
+```
 
 ## Nelson-Alen Estimate
 ```sas
