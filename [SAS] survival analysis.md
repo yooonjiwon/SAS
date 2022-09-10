@@ -4,6 +4,7 @@
 ```sas
 proc lifetest method=km plot=(s ls lls) graphics;
 time time*status(0);
+strata group; * in case you want to compare two groups.
 run;
 ```
 
