@@ -1,7 +1,7 @@
 # [SAS] Statistics of continuous variables
    
 ```sas
-# getting just N, mean, SD, Minimum, and Maximum
+/* getting just N, mean, SD, Minimum, and Maximum */
 proc means maxdec=3 data=db;
 var age;
 class group;
@@ -9,7 +9,7 @@ run;
 ```
   
 ```sas
-# getting N, mean, SD, median, Q1, and Q3
+/* getting N, mean, SD, median, Q1, and Q3 */
 proc means maxdec=3 data=db mean stddev median q1 q3;
 var age;
 class group;
@@ -84,4 +84,20 @@ You can change **sides** option depending on your research question.
 proc ttest data=df sides=2 alpha=0.05 h0=5;
 var value;
 run;
+```
+
+## Correlation
+```sas
+proc corr data=df;
+var a b c;
+with a b c;
+run;
+```
+
+## Linear regression
+```sas
+proc reg data=df;
+model dependent = a b c;
+run;
+quit;
 ```
