@@ -58,6 +58,8 @@ I am organizing SAS codes by the tasks from the basic.
 - [Fleiss' kappa](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20Reliability.md)
 - [Kripendorff's alpha](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20Reliability.md)
 - [Kaplan Meier](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20survival%20analysis.md)
+- [Linear Regression](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
+- [Correlation](https://github.com/yooonjiwon/SAS/blob/main/%5BSAS%5D%20continuous%20descriptive.md)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
