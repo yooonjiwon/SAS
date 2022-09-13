@@ -1,4 +1,4 @@
-# [SAS] Import file
+# [SAS] Import data
 
 ## Import Excel File
 ```sas
