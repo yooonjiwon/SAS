@@ -86,7 +86,7 @@ var value;
 run;
 ```
 
-## Correlation
+### Correlation
 ```sas
 proc corr data=df;
 var a b c;
@@ -94,7 +94,7 @@ with a b c;
 run;
 ```
 
-## Linear regression
+### Linear regression
 ```sas
 proc reg data=df;
 model dependent = a b c;
