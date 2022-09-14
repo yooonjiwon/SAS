@@ -3,7 +3,7 @@
 ## Kaplan Meier
 ```sas
 proc lifetest method=km plot=(s ls lls) graphics;
-time time*status(0);
+time days*status(0);
 strata group; /*in case you want to compare two groups.*/
 run;
 ```
@@ -11,6 +11,6 @@ run;
 ## Nelson-Alen Estimate
 ```sas
 proc lifetest method=km nelson plot=(s ls lls) graphics outsurv=df2;
-time time*status(0);
+time days*status(0);
 run;
 ```
