@@ -1,4 +1,4 @@
-# [SAS] Merge
+# [SAS] Merge dataset
 
 ## Inner Join
 ```sas
