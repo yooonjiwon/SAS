@@ -13,7 +13,7 @@ proc sort data=df1;
 by id;
 run;
 
-proc osrt data=df2;
+proc sort data=df2;
 by id;
 run;
 
